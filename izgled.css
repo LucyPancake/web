@@ -1,4 +1,6 @@
 body
 {
     background-image: url(https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg);
+    background-position-y: top;
+    background-position-x: right;
 }
