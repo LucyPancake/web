@@ -23,8 +23,17 @@ p.drugi
     color: firebrick;
     text-align: center;
     text-decoration: underline;
+    border-style: solid;
+    border-width: thin;
+    border-left-color: white;
+    border-bottom-color: white;
+    border-right-color: black;
+    border-top-color: black;
 }
 p.treci
 {
     text-align: right;
+    border-style: inset;
+    border-width: thick;
+    border-color: green;
 }
