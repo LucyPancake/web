@@ -82,9 +82,13 @@ ul li a:hover
 {
     text-decoration: none;
     border-left-color: #ccf;
+    background-color: beige;
+    border-color: aliceblue;
 }
 ul ul li a:hover
 {
     text-decoration: none;
     border-left-color: #ccf;
+    background-color: beige;
+    border-color: aliceblue;
 }
