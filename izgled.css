@@ -78,3 +78,13 @@ ul, li
     margin: 0px;
     padding: 0px;
 }
+ul li a:hover
+{
+    text-decoration: none;
+    border-left-color: #ccf;
+}
+ul ul li a:hover
+{
+    text-decoration: none;
+    border-left-color: #ccf;
+}
