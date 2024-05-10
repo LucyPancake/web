@@ -1,4 +1,11 @@
 body
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsubI1xnS2EsbFC7IKOtHXy3o2yp5zNGHX8-mLk-0nVw&s);
+    /*ovo služi za poravnjane slike gore */
+    background-position-y: top;
+    background-position-x: right;
+    background-repeat: no-repeat;
+}
 p
 {
     font-family: Verdana, Helvetica, sans-serif;
