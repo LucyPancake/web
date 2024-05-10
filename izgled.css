@@ -48,7 +48,7 @@ img.desna
 {
     float: right;
 }
-ul li a, ul li a:visited
+#veze ul li a, ul li a:visited
 {
     display: block;
     text-decoration: none;
@@ -60,7 +60,7 @@ ul li a, ul li a:visited
     font-weight: bold;
     border-left-style: solid;
 }
-ul ul li a, ul ul li a:visited
+#veze ul ul li a, ul ul li a:visited
 {
     display:block;
     text-decoration: none;
@@ -72,20 +72,20 @@ ul ul li a, ul ul li a:visited
     font-weight: bold;
     border-left-style: solid;
 }
-ul, li
+#veze ul, li
 {
     list-style: none;
     margin: 0px;
     padding: 0px;
 }
-ul li a:hover
+#veze ul li a:hover
 {
     text-decoration: none;
     border-left-color: #ccf;
     background-color: gray;
     border-color: black;
 }
-ul ul li a:hover
+#veze ul ul li a:hover
 {
     text-decoration: none;
     border-left-color: #ccf;
