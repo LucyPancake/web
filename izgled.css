@@ -92,37 +92,3 @@ ul ul li a:hover
     background-color: gray;
     border-color: black;
 }
-#tabs li
-{
-    display: inline;
-}
-#tabs
-{
-    color: #000;
-    border-bottom: 2px solid #455372;
-    margin-top: 50px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    padding: 1px;
-    padding-left: 30px;
-}
-#tabs li a
-{
-    color:#000;
-    background: #d9dbe1;
-    border: 2px solid #455372;
-    padding: 3px 5px 1px 5px;
-    margin: 0px;
-    text-decoration: none;
-}
-#tabs li a:hover
-{
-    border-bottom-color: white;
-    background-color: #eee;
-    color: #455372;
-}
-#tabs li a:active
-{
-    color: #c00;
-}
